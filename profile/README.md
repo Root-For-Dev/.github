@@ -4,22 +4,22 @@
 
 # Root For Dev
 
-**Full-stack systems, built and run end-to-end.**
+**Sistemas full-stack, construídos e mantidos de ponta a ponta.**
 
-We design, build, and operate web platforms, APIs, and backend systems —
-from the first line of code to the server they run on.
+Projetamos, construímos e operamos plataformas web, APIs e sistemas de
+backend — da primeira linha de código até o servidor onde eles rodam.
 
 </div>
 
 <br />
 
-## What we build
+## O que construímos
 
-- 🧩 **Multi-tenant SaaS platforms** — auth, role-based access, data isolation per tenant
-- 🔌 **APIs & integrations** — REST APIs, webhooks, messaging, payment flows
-- ⚙️ **Backend systems** — queues, schedulers, background jobs, real-time status
-- 🖥️ **Full-stack web apps** — from admin dashboards to public-facing products
-- 🐳 **Self-hosted infrastructure** — Docker stacks, reverse proxies, deploys we actually trust
+- 🧩 **Plataformas SaaS multi-tenant** — autenticação, controle de acesso por papel, isolamento de dados por conta
+- 🔌 **APIs & integrações** — APIs REST, webhooks, mensageria, fluxos de pagamento
+- ⚙️ **Sistemas de backend** — filas, agendadores, jobs em background, status em tempo real
+- 🖥️ **Aplicações web full-stack** — de painéis administrativos a produtos voltados ao público
+- 🐳 **Infraestrutura self-hosted** — stacks Docker, proxies reversos, deploys em que confiamos de verdade
 
 <br />
 
@@ -27,11 +27,11 @@ from the first line of code to the server they run on.
 
 ## Stack
 
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -42,15 +42,15 @@ from the first line of code to the server they run on.
 
 <br />
 
-## How we work
+## Como trabalhamos
 
-Small surface area, real ownership. Every system we ship, we can also run,
-debug, and evolve ourselves — no throwing code over a wall.
+Pouca superfície, responsabilidade real. Todo sistema que entregamos, também
+rodamos, depuramos e evoluímos nós mesmos — sem jogar o código por cima do muro.
 
 <br />
 
 <div align="center">
 
-<sub>Root For Dev — root access to how software actually gets built.</sub>
+<sub>Root For Dev — acesso root a como o software realmente é construído.</sub>
 
 </div>
