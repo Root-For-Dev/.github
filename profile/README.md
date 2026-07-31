@@ -1,13 +1,12 @@
 <div align="center">
-
 <img src="https://avatars.githubusercontent.com/u/311549717?v=4" width="112" alt="Root For Dev" />
 
 # Root For Dev
 
-**Sistemas full-stack, construídos e mantidos de ponta a ponta.**
+**R4Dev — da raiz até a entrega: segurança, confiabilidade, escalabilidade e manutenção.**
 
 Projetamos, construímos e operamos plataformas web, APIs e sistemas de
-backend — da primeira linha de código até o servidor onde eles rodam.
+backend — do primeiro commit até o servidor onde eles rodam em produção.
 
 </div>
 
@@ -15,11 +14,14 @@ backend — da primeira linha de código até o servidor onde eles rodam.
 
 ## O que construímos
 
-- 🧩 **Plataformas SaaS multi-tenant** — autenticação, controle de acesso por papel, isolamento de dados por conta
-- 🔌 **APIs & integrações** — APIs REST, webhooks, mensageria, fluxos de pagamento
-- ⚙️ **Sistemas de backend** — filas, agendadores, jobs em background, status em tempo real
-- 🖥️ **Aplicações web full-stack** — de painéis administrativos a produtos voltados ao público
-- 🐳 **Infraestrutura self-hosted** — stacks Docker, proxies reversos, deploys em que confiamos de verdade
+Código limpo, soluções robustas. Sistemas sob demanda para o seu negócio,
+de acordo com a sua necessidade — de plataformas SaaS multi-tenant com
+autenticação e controle de acesso bem definidos, APIs e integrações, webhooks e mensageria sem dor de cabeça. Cuidamos
+também do que roda por trás: filas, agendadores e jobs em background que
+mantêm tudo funcionando mesmo quando ninguém está olhando. E do painel
+administrativo ao produto que o usuário final usa todos os dias, entregamos
+aplicações web full-stack completas, com infraestrutura self-hosted em que
+a gente realmente confia.
 
 <br />
 
@@ -27,12 +29,13 @@ backend — da primeira linha de código até o servidor onde eles rodam.
 
 ## Stack
 
+![Composer](https://img.shields.io/badge/composer-%23885630.svg?style=for-the-badge&logo=composer&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
@@ -44,13 +47,11 @@ backend — da primeira linha de código até o servidor onde eles rodam.
 
 ## Como trabalhamos
 
-Pouca superfície, responsabilidade real. Todo sistema que entregamos, também
-rodamos, depuramos e evoluímos nós mesmos — sem jogar o código por cima do muro.
+Pouca superfície, responsabilidade real. Todo sistema que entregamos, nós
+também operamos, depuramos e evoluímos — sem jogar código por cima do muro.
 
 <br />
 
 <div align="center">
-
 <sub>Root For Dev — acesso root a como o software realmente é construído.</sub>
-
 </div>
